@@ -2,7 +2,7 @@
 
 ${\textsf{\color{lightgrey}Work in Progress}}$
 
->**General**: *A reasoning engine is a contrast to a search engine. It is an application or subsystem that makes logical inferences based on a set of axioms (the rules) and input data.*
+>**General**: *A reasoning engine is a contrast of a search engine. It is an application or subsystem that makes logical inferences based on a set of axioms (the rules) and input data.*
 
 >**Google**: *Reasoning Engine (LangChain on Vertex AI) is a managed service to help building and deploying an agent reasoning framework. It provides the flexibility to choose the amount of reasoning to be fed to the LLM and how it can be handled with customised code.*
 
